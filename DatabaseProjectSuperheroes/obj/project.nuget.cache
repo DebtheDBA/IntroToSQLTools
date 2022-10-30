@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OgnwXu8DsZt4UJ1Zd8naHLfQehemHodpF8TByxgkw8QdgMw0NEUYREnVClWLlbFf1g86tluikSCwCPIfZVoO6A==",
+  "success": true,
+  "projectFilePath": "c:\\GitRepo\\IntroToSQLTools\\DBProject\\DatabaseProjectSuperheroes\\DatabaseProjectSuperheroes.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deb\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\deb\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

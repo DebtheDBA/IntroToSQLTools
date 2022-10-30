@@ -1,0 +1,6 @@
+C:\GitRepo\IntroToSQLTools\DatabaseProjectSuperheroes\Superheroes\bin\Debug\Superheroes.dacpac
+C:\GitRepo\IntroToSQLTools\DatabaseProjectSuperheroes\Superheroes\bin\Debug\Superheroes.dll
+C:\GitRepo\IntroToSQLTools\DatabaseProjectSuperheroes\Superheroes\bin\Debug\Superheroes.pdb
+C:\GitRepo\IntroToSQLTools\DatabaseProjectSuperheroes\Superheroes\obj\Debug\Superheroes.sqlprojAssemblyReference.cache
+C:\GitRepo\IntroToSQLTools\DatabaseProjectSuperheroes\Superheroes\obj\Debug\Superheroes.dll
+C:\GitRepo\IntroToSQLTools\DatabaseProjectSuperheroes\Superheroes\obj\Debug\Superheroes.pdb

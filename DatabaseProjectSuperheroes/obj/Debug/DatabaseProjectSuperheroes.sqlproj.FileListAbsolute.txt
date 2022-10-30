@@ -1,0 +1,12 @@
+c:\GitRepo\IntroToSQLTools\DBProject\DatabaseProjectSuperheroes\bin\Debug\DatabaseProjectSuperheroes.dacpac
+c:\GitRepo\IntroToSQLTools\DBProject\DatabaseProjectSuperheroes\bin\Debug\DatabaseProjectSuperheroes.dll
+c:\GitRepo\IntroToSQLTools\DBProject\DatabaseProjectSuperheroes\bin\Debug\DatabaseProjectSuperheroes.pdb
+c:\GitRepo\IntroToSQLTools\DBProject\DatabaseProjectSuperheroes\bin\Debug\master.dacpac
+c:\GitRepo\IntroToSQLTools\DBProject\DatabaseProjectSuperheroes\obj\Debug\DatabaseProjectSuperheroes.sqlproj.AssemblyReference.cache
+c:\GitRepo\IntroToSQLTools\DBProject\DatabaseProjectSuperheroes\obj\Debug\Model.xml
+c:\GitRepo\IntroToSQLTools\DBProject\DatabaseProjectSuperheroes\obj\Debug\refactor.xml
+c:\GitRepo\IntroToSQLTools\DBProject\DatabaseProjectSuperheroes\obj\Debug\postdeploy.sql
+c:\GitRepo\IntroToSQLTools\DBProject\DatabaseProjectSuperheroes\obj\Debug\predeploy.sql
+c:\GitRepo\IntroToSQLTools\DBProject\DatabaseProjectSuperheroes\obj\Debug\DatabaseProjectSuperheroes.sqlproj.CopyComplete
+c:\GitRepo\IntroToSQLTools\DBProject\DatabaseProjectSuperheroes\obj\Debug\DatabaseProjectSuperheroes.dll
+c:\GitRepo\IntroToSQLTools\DBProject\DatabaseProjectSuperheroes\obj\Debug\DatabaseProjectSuperheroes.pdb

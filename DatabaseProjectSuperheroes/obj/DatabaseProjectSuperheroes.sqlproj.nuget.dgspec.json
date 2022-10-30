@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\GitRepo\\IntroToSQLTools\\DBProject\\DatabaseProjectSuperheroes\\DatabaseProjectSuperheroes.sqlproj": {}
+  },
+  "projects": {
+    "c:\\GitRepo\\IntroToSQLTools\\DBProject\\DatabaseProjectSuperheroes\\DatabaseProjectSuperheroes.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\GitRepo\\IntroToSQLTools\\DBProject\\DatabaseProjectSuperheroes\\DatabaseProjectSuperheroes.sqlproj",
+        "projectName": "DatabaseProjectSuperheroes",
+        "projectPath": "c:\\GitRepo\\IntroToSQLTools\\DBProject\\DatabaseProjectSuperheroes\\DatabaseProjectSuperheroes.sqlproj",
+        "packagesPath": "C:\\Users\\deb\\.nuget\\packages\\",
+        "outputPath": "c:\\GitRepo\\IntroToSQLTools\\DBProject\\DatabaseProjectSuperheroes\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\deb\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
